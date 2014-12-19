@@ -60,7 +60,7 @@ Value range from 1 to 30.
 ### Column 2: activity
 The activity type performed.
 
-The valid activity are of the following values:
+A valid activity takes one the following values:
 * WALKING 
 * WALKING_UPSTAIRS 
 * WALKING_DOWNSTAIRS 
@@ -71,7 +71,7 @@ The valid activity are of the following values:
 ### Column 3-68: Average of mean() and std() for each of every 33 signals
 The average of the mean() and std() variables for each subject grouped by activity type, in the following sequence:
 
-1. avg_tBodyAcc_mean_X,
+1. avg_tBodyAcc_mean_X
 2. avg_tBodyAcc_mean_Y 
 3. avg_tBodyAcc_mean_Z 
 4. avg_tBodyAcc_std_X 

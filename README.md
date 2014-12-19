@@ -28,7 +28,9 @@ The script requires the R programme to run, either from the comman line interfac
 
 The script also requires the R package `data.table` to be installed before running the script. The package can be installed by executing the following command in R console:
 
-```install_packages("data.table"")```
+```
+install_packages("data.table)
+```
 
 The script reads the raw data from the working directory `data`. 
 
@@ -39,7 +41,9 @@ Running the script
 
 The data processing process can be run by running the `run_analysis.R` script using the following command:
 
-```source("run_analysis.R")```
+```
+source("run_analysis.R")
+```
 
 (Make sure that the working directory is set to the same location as `run_analysis.R`)
 

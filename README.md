@@ -10,7 +10,7 @@ The experiments measured 561 variables, using the Samsung Galaxy S smartphone fo
 1. The Triaxial Acceleration from the accelerometer (total acceleratio) and the estimated body acceleration, and 
 2. The Triaxial Angular velocity from the gyroscope  
 
-The resulting dataset produced by the R Script in this repository contains ONLY the average of the mean and the standard deviation of each measurement for each of the six activitivies of each subject. 
+The resulting dataset produced by the R Script in this repository contains ONLY the average of the mean and the standard deviation of each measurement for each of the six activitivies of each subject. The detailed description of the dataset is given in `CodeBook.md`
 
 Data processing procedure
 =========================

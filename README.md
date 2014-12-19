@@ -48,3 +48,7 @@ source("run_analysis.R")
 (Make sure that the working directory is set to the same location as `run_analysis.R`)
 
 The script may take few minutes to complete depending on the computer.
+
+The resulting dataset is saved as `tidy_set.txt` in the working directory.
+
+

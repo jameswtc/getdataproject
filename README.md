@@ -5,7 +5,7 @@ This repository is for the project of the "Getting and Cleaning Data" course, as
 
 This R script in this repository produces an independent dataset deriving from the database of "Human Activity Recognition Using Smartphone" experiments, obtained from the Center for Machine learning and Intelligent Systems, University of California, Irvine. The full description about the experiment is available on http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones.
 
-The experiments measured 561 variables, using the Samsung Galaxy S smartphone for six activities ((WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) from 30 volunteers, of the following:
+The experiments measured 561 variables, using the Samsung Galaxy S smartphone for six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) from 30 volunteers, of the following:
 
 1. The Triaxial Acceleration from the accelerometer (total acceleratio) and the estimated body acceleration, and 
 2. The Triaxial Angular velocity from the gyroscope  

@@ -7,10 +7,10 @@ This R script in this repository produces an independent dataset deriving from t
 
 The experiments measured 561 variables, using the Samsung Galaxy S smartphone for six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) from 30 volunteers, of the following:
 
-1. The Triaxial Acceleration from the accelerometer (total acceleratio) and the estimated body acceleration, and 
+1. The Triaxial Acceleration from the accelerometer (total acceleration) and the estimated body acceleration, and 
 2. The Triaxial Angular velocity from the gyroscope  
 
-The resulting dataset produced by the R Script in this repository contains ONLY the average of the mean and the standard deviation of each measurement for each of the six activitivies of each subject. The detailed description of the dataset is given in `CodeBook.md`
+The resulting dataset produced by the R Script in this repository contains ONLY the average of the mean and the standard deviation of each measurement for each of the six activities of each subject. The detailed description of the dataset is given in `CodeBook.md`
 
 Data processing procedure
 =========================
@@ -24,7 +24,7 @@ The R script does the following:
 
 Requirements
 ============
-The script requires the R programme to run, either from the comman line interface or using the RStudio. It can be run in most modern computer with minimum specifications without any problems.
+The script requires the R programme to run, either from the command line interface or using the RStudio. It can be run in most modern computer with minimum specifications without any problems.
 
 The script also requires the R package `data.table` to be installed before running the script. The package can be installed by executing the following command in R console:
 
